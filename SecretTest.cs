@@ -1,0 +1,1 @@
+var key = "AKIAIOSFODNN7EXAMPLE";
